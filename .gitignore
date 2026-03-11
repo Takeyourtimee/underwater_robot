@@ -1,0 +1,8 @@
+OBJ/
+Listings/
+.vscode/
+*.uvoptx
+*.bak
+*.dep
+*.tmp
+*.log
